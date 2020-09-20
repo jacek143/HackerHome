@@ -1,0 +1,10 @@
+*
+!.gitignore
+!.travis.yml
+!LICENSE
+!gradlew
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+!settings.gradle
+!app
+!build.gradle
